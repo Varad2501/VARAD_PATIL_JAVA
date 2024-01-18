@@ -1,0 +1,5 @@
+Just run this command in cmd of project directory
+command: npm install
+
+TO Run the app
+command: node index.js
